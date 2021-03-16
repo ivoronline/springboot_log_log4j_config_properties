@@ -1,0 +1,3 @@
+MyAppender2: 2021-03-16 21:56:24,216 ERROR controllers.MyController Some error occured 
+MyAppender2: 2021-03-16 21:56:24,219 WARN controllers.MyController Some warn  occured 
+MyAppender2: 2021-03-16 21:56:24,220 INFO controllers.MyController Some info  occured 
